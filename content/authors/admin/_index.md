@@ -14,7 +14,7 @@ role: Student
 
 # Organizations/Affiliations
 organizations:
-- name: Carleton Unicersity
+- name: Carleton University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
