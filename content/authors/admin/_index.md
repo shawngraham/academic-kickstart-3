@@ -58,5 +58,5 @@ user_groups:
 - Researchers
 - Visitors
 ---
-President of Sandman Nation ･ west indian ･ history major ･ lover of fine cinema ･ vegan ･ she/her ･ blossoming ･ writer
+･ west indian ･ history major ･ lover of fine cinema ･ vegan ･ she/her ･ blossoming ･ writer
 
